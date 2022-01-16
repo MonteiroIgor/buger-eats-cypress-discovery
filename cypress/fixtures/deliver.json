@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Igor monteiro",
+        "cpf": "00000014141",
+        "email": "igor@mail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "cep": "58075671",
+            "street": "Rua Platiny Barbosa dos Santos",
+            "number": "92",
+            "details": "casa",
+            "district": "Ernesto Geisel",
+            "city_uf": "João Pessoa/PB"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Marcos Santos",
+        "cpf": "00000014141AA",
+        "email": "marcossantos@mail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "cep": "58075671",
+            "street": "Rua Platiny Barbosa dos Santos",
+            "number": "45",
+            "details": "AP 1",
+            "district": "Ernesto Geisel",
+            "city_uf": "João Pessoa/PB"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Carlos Santos",
+        "cpf": "00000014141",
+        "email": "carlossantos.mail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "cep": "58075671",
+            "street": "Rua Platiny Barbosa dos Santos",
+            "number": "45",
+            "details": "AP 1",
+            "district": "Ernesto Geisel",
+            "city_uf": "João Pessoa/PB"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
