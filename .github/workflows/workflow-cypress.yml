@@ -2,10 +2,6 @@ name: Cypress Regression Tests
 
 on: [push]
 
-  schedule:
-  
-    - cron: '45 15 * * *'
-
 jobs:
 
   ui-chrome-tests:
@@ -16,7 +12,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      
+
       - name: 'UI Tests - Chrome'
         uses: cypress-io/github-action@v2
         with:
