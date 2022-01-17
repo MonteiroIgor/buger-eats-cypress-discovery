@@ -1,8 +1,10 @@
 name: Cypress Regression Tests
 
-on: 
-  schedule: 
-    - cron: '59 14 * * *'
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: '05 15 * * *'
     
 
 jobs:
